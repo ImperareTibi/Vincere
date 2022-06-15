@@ -3,7 +3,7 @@
 
 ## Launch Options
 ```
--novid -nojoy -nosteamcontroller -forcenovsync -nohltv
+-novid -nojoy -nosteamcontroller -forcenovsync -nohltv -windowed -noborder
 ```
 
 ## Config Release
