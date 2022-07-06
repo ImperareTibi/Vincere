@@ -46,10 +46,6 @@ This will open up your `Counter-Strike Global Offensive` folder.
   * `KP_DEL` = Buy Defuse Kit
   * `KP_ENTER` = Buy Standard Grenades (Flashbang x2, Molotov x1 & Smoke Grenade x1)
 
-## To-Do
-
-## Known Bugs
-
 ## Credits
 * [Total CS:GO](https://totalcsgo.com/) for their documentation on [Console Commands](https://totalcsgo.com/commands) and [Binds](https://totalcsgo.com/binds).
 * [TheFantasticLoki](https://github.com/TheFantasticLoki)'s [Loki's Config Pack](https://github.com/TheFantasticLoki/Loki-s-Auto-Exec-Pack).
